@@ -11,6 +11,8 @@ to withdraw money,deposit.
 ![image](https://github.com/Sanjay-sg/LAB-1-ATM/assets/119559022/64da95f5-994d-4cb4-9fd5-38853629058c)
 ## CLASS DIAGRAM:
 ![image](https://github.com/Sanjay-sg/LAB-1-ATM/assets/119559022/02354ac3-4a6f-4e08-8966-499a563de9ac)
+## STATECHART DIAGRAM:
+![image](https://github.com/Sanjay-sg/LAB-1-ATM/assets/119559022/8801c187-2712-46fd-b7c9-e7902e80bc37)
 ## SEQUENCE DIAGRAM:
 ![image](https://github.com/Sanjay-sg/LAB-1-ATM/assets/119559022/7ac3cd2a-7772-4da2-a5b0-1da3d4f670a5)
 ## ACTIVITY DIAGRAM:
